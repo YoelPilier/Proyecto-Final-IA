@@ -3,7 +3,7 @@
 ## 👨‍💻 Información del Estudiante
 
 **Nombre:** Ricarly Jiménez  
-**Matrícula:** #########  
+**Matrícula:** 22-EISN-2-001 
 **Curso:** Inteligencia Artificial  
 **Fecha de Entrega:** 11/08/2025  
 
@@ -87,7 +87,7 @@ Para mejor rendimiento:
 ### 📞 Contacto
 
 **Estudiante:** Ricarly Jiménez  
-**Matrícula:** #########  
+**Matrícula:** 22-EISN-2-001  
 **Repositorio:** [https://github.com/ricarly01/Proyecto-Final-IA.git]  
 
 ---
