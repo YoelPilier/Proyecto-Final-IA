@@ -1,6 +1,6 @@
 # Proyecto-de-Final-IA
 
-## Nombre
+## Ricarly Jimenez
 
 ## Matrícula
 
