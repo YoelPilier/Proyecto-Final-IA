@@ -1,0 +1,8 @@
+gradio
+torch
+torchvision
+pillow
+python-dotenv
+openai
+deepface
+
