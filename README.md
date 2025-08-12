@@ -30,6 +30,8 @@ Sistema inteligente que detecta y analiza emociones faciales usando **modelos de
 ### 📦 Instalación Rápida
 
 ```bash
+# WARNING
+# Debe tener instalada La version de python 3.8.10 Para evitar errores de ejecucion
 # Clonar repositorio
 git clone [[URL_DEL_REPOSITORIO](https://github.com/ricarly01/Proyecto-Final-IA.git)]
 cd Proyecto-de-Final-IA
