@@ -1,0 +1,2 @@
+OPENAI_KEY = "TU_API"
+TMDB_KEY = "TU_API"
